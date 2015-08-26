@@ -1,7 +1,7 @@
 <?php
 // ---------------------- Here are some constants you need to change for your environment
-define('MY_URL', 			"http://mycompany.mojohelpdesk.com");
-define('MY_KEY', 			"ec91417dddfd7jhgkjhgkjhgjkhg53dce59058932");
+define('MY_URL', "http://mycompany.mojohelpdesk.com");
+define('MY_KEY', "ec91417dddfd7jhgkjhgkjhgjkhg53dce59058932");
 define('NUM_CUSTOM_FIELDS', 11);					//If you have custom fields, enter the number of custom fields in your schema
 
 function splitn($string, $needle, $offset)			// This function is to split the description field into 2 strings
